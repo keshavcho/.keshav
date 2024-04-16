@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: linear-gradient(to right,#614385,#516395);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.container{
+max-width: 500px;
+margin: 200px auto;
+background-color: aliceblue;
+padding: 20px;
+border-radius: 8px;
+box-shadow: 0 2px 25px rgba(90,87,87,0.3);
+}
+h1{
+    margin-bottom: 20px;
+    text-align: center;
+    text-decoration: double;
+}
